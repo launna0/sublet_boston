@@ -16,7 +16,7 @@
       "policies": [],
       "userPermissions": []
     },
-    "pageId": "Posts",
+    "pageId": "Sublessors_posts",
     "actionConfiguration": {
       "timeoutInMillisecond": 10000,
       "paginationType": "NONE",
@@ -59,7 +59,7 @@
     "policies": [],
     "userPermissions": []
   },
-  "id": "Posts_update_post",
+  "id": "Sublessors_posts_update_post",
   "deleted": false,
   "gitSyncId": "643f54c0117e613a91f6c3dd_64403eb8117e613a91f6c401"
 }

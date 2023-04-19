@@ -2,12 +2,12 @@
   "pluginType": "API",
   "pluginId": "restapi-plugin",
   "unpublishedAction": {
-    "name": "post_posts",
+    "name": "delete_all_posts",
     "datasource": {
       "name": "DEFAULT_REST_DATASOURCE",
       "pluginId": "restapi-plugin",
       "datasourceConfiguration": {
-        "url": "web:4000/sl/posts"
+        "url": "web:4000/sl/posts/sublessor/{{sbless_id_delete.text}}"
       },
       "invalids": [],
       "messages": [],
@@ -16,7 +16,7 @@
       "policies": [],
       "userPermissions": []
     },
-    "pageId": "Posts",
+    "pageId": "Sublessors_posts",
     "actionConfiguration": {
       "timeoutInMillisecond": 10000,
       "paginationType": "NONE",
@@ -29,9 +29,9 @@
       ],
       "encodeParamsToggle": true,
       "queryParameters": [],
-      "body": "{{create_posts_form.data}}",
+      "body": "",
       "bodyFormData": [],
-      "httpMethod": "POST",
+      "httpMethod": "DELETE",
       "selfReferencingDataPaths": [],
       "pluginSpecifiedTemplates": [
         {
@@ -39,27 +39,27 @@
         }
       ],
       "formData": {
-        "apiContentType": "application/json"
+        "apiContentType": "none"
       }
     },
     "executeOnLoad": false,
     "dynamicBindingPathList": [
       {
-        "key": "body"
+        "key": "datasourceUrl"
       }
     ],
     "isValid": true,
     "invalids": [],
     "messages": [],
     "jsonPathKeys": [
-      "create_posts_form.data"
+      "sbless_id_delete.text"
     ],
     "userSetOnLoad": false,
     "confirmBeforeExecute": false,
     "policies": [],
     "userPermissions": []
   },
-  "id": "Posts_post_posts",
+  "id": "Sublessors_posts_delete_all_posts",
   "deleted": false,
-  "gitSyncId": "643f54c0117e613a91f6c3dd_644038df117e613a91f6c3fb"
+  "gitSyncId": "643f54c0117e613a91f6c3dd_644044ab117e613a91f6c408"
 }
