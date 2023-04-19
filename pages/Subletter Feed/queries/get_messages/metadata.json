@@ -2,13 +2,12 @@
   "pluginType": "API",
   "pluginId": "restapi-plugin",
   "unpublishedAction": {
-    "name": "get_specific_posts",
+    "name": "get_messages",
     "datasource": {
       "name": "DEFAULT_REST_DATASOURCE",
       "pluginId": "restapi-plugin",
       "datasourceConfiguration": {
-        "sshProxyEnabled": false,
-        "url": "web:4000/st/postsunder/{{unit_price.text}}"
+        "url": "web:4000/st/messages/{{post_id2.text}}/'{{sblett_user2.text}}'"
       },
       "invalids": [],
       "messages": [],
@@ -47,14 +46,15 @@
     "invalids": [],
     "messages": [],
     "jsonPathKeys": [
-      "unit_price.text"
+      "post_id2.text",
+      "sblett_user2.text"
     ],
     "userSetOnLoad": false,
     "confirmBeforeExecute": false,
     "policies": [],
     "userPermissions": []
   },
-  "id": "Subletter Feed_get_specific_posts",
+  "id": "Subletter Feed_get_messages",
   "deleted": false,
-  "gitSyncId": "64403528b5f6327beba5ee65_64404d8fb5f6327beba5eea7"
+  "gitSyncId": "64403528b5f6327beba5ee65_64405724b5f6327beba5eec5"
 }
