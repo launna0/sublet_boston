@@ -1,8 +1,16 @@
 {
   "pages": [
     {
-      "id": "Sublessors_posts",
+      "id": "Sublessor Posts",
       "isDefault": true
+    },
+    {
+      "id": "Subletter Profiles",
+      "isDefault": false
+    },
+    {
+      "id": "Subletter Feed",
+      "isDefault": false
     }
   ],
   "viewMode": false,

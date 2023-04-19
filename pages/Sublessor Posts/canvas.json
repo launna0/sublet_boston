@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "Sublessors_posts",
-    "slug": "sublessors-posts",
+    "name": "Sublessor Posts",
+    "slug": "sublessor-posts",
     "layouts": [
       {
         "viewMode": false,
@@ -2153,7 +2153,7 @@
         "layoutOnLoadActions": [],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "Sublessors_posts",
+        "id": "Sublessor Posts",
         "deleted": false,
         "policies": [],
         "userPermissions": []

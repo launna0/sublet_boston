@@ -2,12 +2,12 @@
   "pluginType": "API",
   "pluginId": "restapi-plugin",
   "unpublishedAction": {
-    "name": "post_posts",
+    "name": "update_username",
     "datasource": {
       "name": "DEFAULT_REST_DATASOURCE",
       "pluginId": "restapi-plugin",
       "datasourceConfiguration": {
-        "url": "web:4000/sl/posts"
+        "url": "web:4000/st/subletters/{{sbletter_id.text}}"
       },
       "invalids": [],
       "messages": [],
@@ -16,7 +16,7 @@
       "policies": [],
       "userPermissions": []
     },
-    "pageId": "Sublessors_posts",
+    "pageId": "Subletter Profiles",
     "actionConfiguration": {
       "timeoutInMillisecond": 10000,
       "paginationType": "NONE",
@@ -29,9 +29,9 @@
       ],
       "encodeParamsToggle": true,
       "queryParameters": [],
-      "body": "{{create_posts_form.data}}",
+      "body": "{{update_username_form.data}}",
       "bodyFormData": [],
-      "httpMethod": "POST",
+      "httpMethod": "PUT",
       "selfReferencingDataPaths": [],
       "pluginSpecifiedTemplates": [
         {
@@ -45,6 +45,9 @@
     "executeOnLoad": false,
     "dynamicBindingPathList": [
       {
+        "key": "datasourceUrl"
+      },
+      {
         "key": "body"
       }
     ],
@@ -52,14 +55,15 @@
     "invalids": [],
     "messages": [],
     "jsonPathKeys": [
-      "create_posts_form.data"
+      "sbletter_id.text",
+      "update_username_form.data"
     ],
     "userSetOnLoad": false,
     "confirmBeforeExecute": false,
     "policies": [],
     "userPermissions": []
   },
-  "id": "Sublessors_posts_post_posts",
+  "id": "Subletter Profiles_update_username",
   "deleted": false,
-  "gitSyncId": "643f54c0117e613a91f6c3dd_644038df117e613a91f6c3fb"
+  "gitSyncId": "64403528b5f6327beba5ee65_64404bfab5f6327beba5ee9f"
 }

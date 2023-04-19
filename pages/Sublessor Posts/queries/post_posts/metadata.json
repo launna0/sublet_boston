@@ -2,12 +2,12 @@
   "pluginType": "API",
   "pluginId": "restapi-plugin",
   "unpublishedAction": {
-    "name": "update_post",
+    "name": "post_posts",
     "datasource": {
       "name": "DEFAULT_REST_DATASOURCE",
       "pluginId": "restapi-plugin",
       "datasourceConfiguration": {
-        "url": "web:4000/sl/posts/post_dscrptn/2"
+        "url": "web:4000/sl/posts"
       },
       "invalids": [],
       "messages": [],
@@ -16,7 +16,7 @@
       "policies": [],
       "userPermissions": []
     },
-    "pageId": "Sublessors_posts",
+    "pageId": "Sublessor Posts",
     "actionConfiguration": {
       "timeoutInMillisecond": 10000,
       "paginationType": "NONE",
@@ -29,9 +29,9 @@
       ],
       "encodeParamsToggle": true,
       "queryParameters": [],
-      "body": "{{update_posts_form.data}}",
+      "body": "{{create_posts_form.data}}",
       "bodyFormData": [],
-      "httpMethod": "PUT",
+      "httpMethod": "POST",
       "selfReferencingDataPaths": [],
       "pluginSpecifiedTemplates": [
         {
@@ -52,14 +52,14 @@
     "invalids": [],
     "messages": [],
     "jsonPathKeys": [
-      "update_posts_form.data"
+      "create_posts_form.data"
     ],
     "userSetOnLoad": false,
     "confirmBeforeExecute": false,
     "policies": [],
     "userPermissions": []
   },
-  "id": "Sublessors_posts_update_post",
+  "id": "Sublessor Posts_post_posts",
   "deleted": false,
-  "gitSyncId": "643f54c0117e613a91f6c3dd_64403eb8117e613a91f6c401"
+  "gitSyncId": "643f54c0117e613a91f6c3dd_644038df117e613a91f6c3fb"
 }
