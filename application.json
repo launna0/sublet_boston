@@ -11,6 +11,10 @@
     {
       "id": "Subletter Feed",
       "isDefault": false
+    },
+    {
+      "id": "Sublessor Profile",
+      "isDefault": false
     }
   ],
   "viewMode": false,
