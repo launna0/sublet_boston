@@ -46,6 +46,9 @@
     "dynamicBindingPathList": [
       {
         "key": "datasourceUrl"
+      },
+      {
+        "key": "body"
       }
     ],
     "isValid": true,
