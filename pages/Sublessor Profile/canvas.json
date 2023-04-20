@@ -13,7 +13,7 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 2390,
+          "bottomRow": 2370,
           "containerStyle": "none",
           "snapRows": 68,
           "parentRowSpace": 1,
@@ -77,7 +77,7 @@
                         "label"
                       ],
                       "topRow": 1,
-                      "bottomRow": 9,
+                      "bottomRow": 7,
                       "type": "TEXT_WIDGET",
                       "hideCard": false,
                       "animateLoading": true,
@@ -228,8 +228,8 @@
                         "number",
                         "textarea"
                       ],
-                      "topRow": 11,
-                      "bottomRow": 18,
+                      "topRow": 9,
+                      "bottomRow": 16,
                       "parentRowSpace": 10,
                       "labelWidth": 5,
                       "autoFocus": false,
@@ -289,8 +289,8 @@
                         "number",
                         "textarea"
                       ],
-                      "topRow": 20,
-                      "bottomRow": 27,
+                      "topRow": 18,
+                      "bottomRow": 25,
                       "parentRowSpace": 10,
                       "labelWidth": 5,
                       "autoFocus": false,
@@ -694,8 +694,8 @@
                         "number",
                         "textarea"
                       ],
-                      "topRow": 8,
-                      "bottomRow": 15,
+                      "topRow": 6,
+                      "bottomRow": 13,
                       "parentRowSpace": 10,
                       "labelWidth": 5,
                       "autoFocus": false,
@@ -705,7 +705,7 @@
                       "parentColumnSpace": 5.6435546875,
                       "dynamicTriggerPathList": [],
                       "resetOnSubmit": true,
-                      "leftColumn": 31,
+                      "leftColumn": 26,
                       "dynamicBindingPathList": [
                         {
                           "key": "accentColor"
@@ -722,7 +722,7 @@
                       "labelTextSize": "0.875rem",
                       "isRequired": false,
                       "isDeprecated": false,
-                      "rightColumn": 51,
+                      "rightColumn": 46,
                       "dynamicHeight": "FIXED",
                       "widgetId": "orbs4njoud",
                       "accentColor": "{{appsmith.theme.colors.primaryColor}}",
@@ -764,7 +764,7 @@
                       "parentColumnSpace": 5.6435546875,
                       "dynamicTriggerPathList": [],
                       "resetOnSubmit": true,
-                      "leftColumn": 5,
+                      "leftColumn": 2,
                       "dynamicBindingPathList": [
                         {
                           "key": "accentColor"
@@ -781,7 +781,7 @@
                       "labelTextSize": "0.875rem",
                       "isRequired": false,
                       "isDeprecated": false,
-                      "rightColumn": 25,
+                      "rightColumn": 22,
                       "dynamicHeight": "FIXED",
                       "widgetId": "8558fpdh9r",
                       "accentColor": "{{appsmith.theme.colors.primaryColor}}",
@@ -823,7 +823,7 @@
                       "parentColumnSpace": 5.6435546875,
                       "dynamicTriggerPathList": [],
                       "resetOnSubmit": true,
-                      "leftColumn": 5,
+                      "leftColumn": 2,
                       "dynamicBindingPathList": [
                         {
                           "key": "accentColor"
@@ -840,7 +840,7 @@
                       "labelTextSize": "0.875rem",
                       "isRequired": false,
                       "isDeprecated": false,
-                      "rightColumn": 25,
+                      "rightColumn": 22,
                       "dynamicHeight": "FIXED",
                       "widgetId": "t4udt7ott6",
                       "accentColor": "{{appsmith.theme.colors.primaryColor}}",
@@ -882,7 +882,7 @@
                       "parentColumnSpace": 5.6435546875,
                       "dynamicTriggerPathList": [],
                       "resetOnSubmit": true,
-                      "leftColumn": 4,
+                      "leftColumn": 2,
                       "dynamicBindingPathList": [
                         {
                           "key": "accentColor"
@@ -899,7 +899,7 @@
                       "labelTextSize": "0.875rem",
                       "isRequired": false,
                       "isDeprecated": false,
-                      "rightColumn": 24,
+                      "rightColumn": 22,
                       "dynamicHeight": "FIXED",
                       "widgetId": "dux2ztwig1",
                       "accentColor": "{{appsmith.theme.colors.primaryColor}}",
@@ -930,8 +930,8 @@
                         "number",
                         "textarea"
                       ],
-                      "topRow": 17,
-                      "bottomRow": 24,
+                      "topRow": 16,
+                      "bottomRow": 23,
                       "parentRowSpace": 10,
                       "labelWidth": 5,
                       "autoFocus": false,
@@ -941,7 +941,7 @@
                       "parentColumnSpace": 5.6435546875,
                       "dynamicTriggerPathList": [],
                       "resetOnSubmit": true,
-                      "leftColumn": 32,
+                      "leftColumn": 26,
                       "dynamicBindingPathList": [
                         {
                           "key": "accentColor"
@@ -958,7 +958,7 @@
                       "labelTextSize": "0.875rem",
                       "isRequired": false,
                       "isDeprecated": false,
-                      "rightColumn": 52,
+                      "rightColumn": 46,
                       "dynamicHeight": "FIXED",
                       "widgetId": "alv2tvrsak",
                       "accentColor": "{{appsmith.theme.colors.primaryColor}}",
@@ -1026,7 +1026,7 @@
                 "group"
               ],
               "topRow": 131,
-              "bottomRow": 170,
+              "bottomRow": 168,
               "parentRowSpace": 10,
               "type": "FORM_WIDGET",
               "hideCard": false,
@@ -1047,7 +1047,7 @@
                   "widgetName": "Canvas4",
                   "displayName": "Canvas",
                   "topRow": 0,
-                  "bottomRow": 390,
+                  "bottomRow": 370,
                   "parentRowSpace": 1,
                   "type": "CANVAS_WIDGET",
                   "canExtend": false,
@@ -1068,8 +1068,8 @@
                         "number",
                         "textarea"
                       ],
-                      "topRow": 9,
-                      "bottomRow": 16,
+                      "topRow": 7,
+                      "bottomRow": 14,
                       "parentRowSpace": 10,
                       "labelWidth": 5,
                       "autoFocus": false,
@@ -1079,7 +1079,7 @@
                       "parentColumnSpace": 5.6435546875,
                       "dynamicTriggerPathList": [],
                       "resetOnSubmit": true,
-                      "leftColumn": 5,
+                      "leftColumn": 2,
                       "dynamicBindingPathList": [
                         {
                           "key": "accentColor"
@@ -1096,7 +1096,7 @@
                       "labelTextSize": "0.875rem",
                       "isRequired": false,
                       "isDeprecated": false,
-                      "rightColumn": 25,
+                      "rightColumn": 22,
                       "dynamicHeight": "FIXED",
                       "widgetId": "jbydysvepa",
                       "accentColor": "{{appsmith.theme.colors.primaryColor}}",
@@ -1129,8 +1129,8 @@
                         "number",
                         "textarea"
                       ],
-                      "topRow": 9,
-                      "bottomRow": 16,
+                      "topRow": 7,
+                      "bottomRow": 14,
                       "parentRowSpace": 10,
                       "labelWidth": 5,
                       "autoFocus": false,
@@ -1140,7 +1140,7 @@
                       "parentColumnSpace": 5.6435546875,
                       "dynamicTriggerPathList": [],
                       "resetOnSubmit": true,
-                      "leftColumn": 32,
+                      "leftColumn": 25,
                       "dynamicBindingPathList": [
                         {
                           "key": "accentColor"
@@ -1157,7 +1157,7 @@
                       "labelTextSize": "0.875rem",
                       "isRequired": false,
                       "isDeprecated": false,
-                      "rightColumn": 52,
+                      "rightColumn": 45,
                       "dynamicHeight": "FIXED",
                       "widgetId": "6rwj2ya6nb",
                       "accentColor": "{{appsmith.theme.colors.primaryColor}}",
@@ -1189,7 +1189,7 @@
                         "label"
                       ],
                       "topRow": 1,
-                      "bottomRow": 7,
+                      "bottomRow": 5,
                       "type": "TEXT_WIDGET",
                       "hideCard": false,
                       "animateLoading": true,
@@ -1245,8 +1245,8 @@
                         "click",
                         "submit"
                       ],
-                      "topRow": 33,
-                      "bottomRow": 37,
+                      "topRow": 31,
+                      "bottomRow": 35,
                       "type": "BUTTON_WIDGET",
                       "hideCard": false,
                       "animateLoading": true,
@@ -1297,8 +1297,8 @@
                         "click",
                         "submit"
                       ],
-                      "topRow": 33,
-                      "bottomRow": 37,
+                      "topRow": 31,
+                      "bottomRow": 35,
                       "type": "BUTTON_WIDGET",
                       "hideCard": false,
                       "animateLoading": true,
@@ -1367,7 +1367,7 @@
               "originalTopRow": 131,
               "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
               "maxDynamicHeight": 9000,
-              "originalBottomRow": 170,
+              "originalBottomRow": 168,
               "minDynamicHeight": 10
             },
             {
@@ -1380,8 +1380,8 @@
               "searchTags": [
                 "group"
               ],
-              "topRow": 174,
-              "bottomRow": 239,
+              "topRow": 172,
+              "bottomRow": 237,
               "parentRowSpace": 10,
               "type": "FORM_WIDGET",
               "hideCard": false,
@@ -1430,7 +1430,7 @@
                       "overflow": "NONE",
                       "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
                       "dynamicTriggerPathList": [],
-                      "leftColumn": 1.5,
+                      "leftColumn": 1,
                       "dynamicBindingPathList": [
                         {
                           "key": "truncateButtonColor"
@@ -1447,7 +1447,7 @@
                       "text": "Get Reviews",
                       "key": "zcn7ad3qwq",
                       "isDeprecated": false,
-                      "rightColumn": 25.5,
+                      "rightColumn": 25,
                       "textAlign": "LEFT",
                       "dynamicHeight": "AUTO_HEIGHT",
                       "widgetId": "467k4w1rrg",
@@ -1479,8 +1479,8 @@
                         "click",
                         "submit"
                       ],
-                      "topRow": 19,
-                      "bottomRow": 23,
+                      "topRow": 15,
+                      "bottomRow": 19,
                       "type": "BUTTON_WIDGET",
                       "hideCard": false,
                       "animateLoading": true,
@@ -1489,7 +1489,7 @@
                           "key": "onClick"
                         }
                       ],
-                      "leftColumn": 36,
+                      "leftColumn": 18,
                       "dynamicBindingPathList": [
                         {
                           "key": "buttonColor"
@@ -1502,7 +1502,7 @@
                       "isDisabled": false,
                       "key": "q4k6n8kq5y",
                       "isDeprecated": false,
-                      "rightColumn": 50,
+                      "rightColumn": 32,
                       "isDefaultClickDisabled": true,
                       "widgetId": "920xf8h3mq",
                       "minWidth": 120,
@@ -1531,12 +1531,12 @@
                         "click",
                         "submit"
                       ],
-                      "topRow": 19,
-                      "bottomRow": 23,
+                      "topRow": 15,
+                      "bottomRow": 19,
                       "type": "BUTTON_WIDGET",
                       "hideCard": false,
                       "animateLoading": true,
-                      "leftColumn": 16,
+                      "leftColumn": 1,
                       "dynamicBindingPathList": [
                         {
                           "key": "buttonColor"
@@ -1549,7 +1549,7 @@
                       "isDisabled": false,
                       "key": "q4k6n8kq5y",
                       "isDeprecated": false,
-                      "rightColumn": 32,
+                      "rightColumn": 17,
                       "isDefaultClickDisabled": true,
                       "widgetId": "mybfp33rur",
                       "minWidth": 120,
@@ -1792,10 +1792,10 @@
               "renderMode": "CANVAS",
               "isLoading": false,
               "responsiveBehavior": "fill",
-              "originalTopRow": 174,
+              "originalTopRow": 172,
               "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
               "maxDynamicHeight": 9000,
-              "originalBottomRow": 239,
+              "originalBottomRow": 237,
               "minDynamicHeight": 10
             }
           ]
