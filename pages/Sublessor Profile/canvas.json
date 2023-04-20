@@ -13,7 +13,7 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 2280,
+          "bottomRow": 1850,
           "containerStyle": "none",
           "snapRows": 68,
           "parentRowSpace": 1,
@@ -505,15 +505,15 @@
               "searchTags": [
                 "group"
               ],
-              "topRow": 81,
-              "bottomRow": 119,
+              "topRow": 42,
+              "bottomRow": 80,
               "parentRowSpace": 10,
               "type": "FORM_WIDGET",
               "hideCard": false,
               "shouldScrollContents": true,
               "animateLoading": true,
               "parentColumnSpace": 20.0625,
-              "leftColumn": 22,
+              "leftColumn": 13,
               "dynamicBindingPathList": [
                 {
                   "key": "borderRadius"
@@ -1006,7 +1006,7 @@
               "key": "frroldg9he",
               "backgroundColor": "#FFFFFF",
               "isDeprecated": false,
-              "rightColumn": 49,
+              "rightColumn": 40,
               "dynamicHeight": "AUTO_HEIGHT",
               "widgetId": "l5oh0wi85y",
               "minWidth": 450,
@@ -1015,10 +1015,10 @@
               "renderMode": "CANVAS",
               "isLoading": false,
               "responsiveBehavior": "fill",
-              "originalTopRow": 81,
+              "originalTopRow": 42,
               "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
               "maxDynamicHeight": 9000,
-              "originalBottomRow": 119,
+              "originalBottomRow": 80,
               "minDynamicHeight": 10
             },
             {
@@ -1031,15 +1031,15 @@
               "searchTags": [
                 "group"
               ],
-              "topRow": 124,
-              "bottomRow": 159,
+              "topRow": 83,
+              "bottomRow": 118,
               "parentRowSpace": 10,
               "type": "FORM_WIDGET",
               "hideCard": false,
               "shouldScrollContents": true,
               "animateLoading": true,
               "parentColumnSpace": 20.0625,
-              "leftColumn": 18,
+              "leftColumn": 14,
               "dynamicBindingPathList": [
                 {
                   "key": "borderRadius"
@@ -1361,7 +1361,7 @@
               "key": "ztfexc3gp0",
               "backgroundColor": "#FFFFFF",
               "isDeprecated": false,
-              "rightColumn": 42,
+              "rightColumn": 38,
               "dynamicHeight": "AUTO_HEIGHT",
               "widgetId": "5iq4y8b393",
               "minWidth": 450,
@@ -1370,10 +1370,10 @@
               "renderMode": "CANVAS",
               "isLoading": false,
               "responsiveBehavior": "fill",
-              "originalTopRow": 124,
+              "originalTopRow": 83,
               "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
               "maxDynamicHeight": 9000,
-              "originalBottomRow": 159,
+              "originalBottomRow": 118,
               "minDynamicHeight": 10
             },
             {
@@ -1386,8 +1386,8 @@
               "searchTags": [
                 "group"
               ],
-              "topRow": 163,
-              "bottomRow": 228,
+              "topRow": 120,
+              "bottomRow": 185,
               "parentRowSpace": 10,
               "type": "FORM_WIDGET",
               "hideCard": false,
@@ -1395,7 +1395,7 @@
               "animateLoading": true,
               "parentColumnSpace": 20.0625,
               "dynamicTriggerPathList": [],
-              "leftColumn": 3,
+              "leftColumn": 4,
               "dynamicBindingPathList": [
                 {
                   "key": "borderRadius"
@@ -1789,7 +1789,7 @@
               "key": "bkz1rik9ld",
               "backgroundColor": "#FFFFFF",
               "isDeprecated": false,
-              "rightColumn": 56,
+              "rightColumn": 57,
               "dynamicHeight": "FIXED",
               "widgetId": "uhw8gfld8g",
               "minWidth": 450,
@@ -1798,10 +1798,10 @@
               "renderMode": "CANVAS",
               "isLoading": false,
               "responsiveBehavior": "fill",
-              "originalTopRow": 163,
+              "originalTopRow": 120,
               "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
               "maxDynamicHeight": 9000,
-              "originalBottomRow": 228,
+              "originalBottomRow": 185,
               "minDynamicHeight": 10
             }
           ]
