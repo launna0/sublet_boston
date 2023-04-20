@@ -280,7 +280,7 @@
                       "maxDynamicHeight": 9000,
                       "originalBottomRow": 17,
                       "iconAlign": "left",
-                      "defaultText": "",
+                      "defaultText": "1",
                       "minDynamicHeight": 4
                     },
                     {
@@ -339,7 +339,7 @@
                       "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
                       "maxDynamicHeight": 9000,
                       "iconAlign": "left",
-                      "defaultText": "",
+                      "defaultText": "krina_patel",
                       "minDynamicHeight": 4
                     },
                     {
@@ -1386,7 +1386,7 @@
                       "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
                       "maxDynamicHeight": 9000,
                       "iconAlign": "left",
-                      "defaultText": "",
+                      "defaultText": "1",
                       "minDynamicHeight": 4
                     },
                     {
@@ -2513,7 +2513,7 @@
                       "maxDynamicHeight": 9000,
                       "originalBottomRow": 14,
                       "iconAlign": "left",
-                      "defaultText": "",
+                      "defaultText": "1500",
                       "minDynamicHeight": 4
                     }
                   ],
