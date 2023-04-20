@@ -13,7 +13,7 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 760,
+          "bottomRow": 750,
           "containerStyle": "none",
           "snapRows": 57,
           "parentRowSpace": 1,
@@ -35,8 +35,8 @@
               "searchTags": [
                 "group"
               ],
-              "topRow": 45,
-              "bottomRow": 76,
+              "topRow": 44,
+              "bottomRow": 75,
               "parentRowSpace": 10,
               "type": "FORM_WIDGET",
               "hideCard": false,
@@ -44,7 +44,7 @@
               "animateLoading": true,
               "parentColumnSpace": 14.0625,
               "dynamicTriggerPathList": [],
-              "leftColumn": 31,
+              "leftColumn": 2,
               "dynamicBindingPathList": [
                 {
                   "key": "borderRadius"
@@ -360,7 +360,7 @@
               "key": "yfop19a74e",
               "backgroundColor": "#FFFFFF",
               "isDeprecated": false,
-              "rightColumn": 59,
+              "rightColumn": 30,
               "dynamicHeight": "FIXED",
               "widgetId": "ej0hdgft8q",
               "minWidth": 450,
@@ -369,10 +369,10 @@
               "renderMode": "CANVAS",
               "isLoading": false,
               "responsiveBehavior": "fill",
-              "originalTopRow": 45,
+              "originalTopRow": 44,
               "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
               "maxDynamicHeight": 9000,
-              "originalBottomRow": 76,
+              "originalBottomRow": 75,
               "minDynamicHeight": 10
             },
             {
@@ -394,7 +394,7 @@
               "animateLoading": true,
               "parentColumnSpace": 14.0625,
               "dynamicTriggerPathList": [],
-              "leftColumn": 1,
+              "leftColumn": 33,
               "dynamicBindingPathList": [
                 {
                   "key": "borderRadius"
@@ -419,7 +419,7 @@
                   "dynamicBindingPathList": [],
                   "children": [
                     {
-                      "widgetName": "form_title",
+                      "widgetName": "delete_profile_label",
                       "displayName": "Text",
                       "iconSVG": "/static/media/icon.97c59b523e6f70ba6f40a10fc2c7c5b5.svg",
                       "searchTags": [
@@ -614,7 +614,7 @@
                       "showStepArrows": false,
                       "minWidth": 450,
                       "isVisible": true,
-                      "label": "Please enter your sublettor id below:\n",
+                      "label": "Please enter your Sublettor ID below:\n",
                       "version": 2,
                       "parentId": "ekosg6siqr",
                       "labelAlignment": "left",
@@ -649,7 +649,7 @@
               "key": "yfop19a74e",
               "backgroundColor": "#FFFFFF",
               "isDeprecated": false,
-              "rightColumn": 29,
+              "rightColumn": 61,
               "dynamicHeight": "FIXED",
               "widgetId": "9gtbdch83w",
               "minWidth": 450,

@@ -69,7 +69,7 @@
                   "dynamicBindingPathList": [],
                   "children": [
                     {
-                      "widgetName": "Text1Copy",
+                      "widgetName": "search_message_label",
                       "displayName": "Text",
                       "iconSVG": "/static/media/icon.97c59b523e6f70ba6f40a10fc2c7c5b5.svg",
                       "searchTags": [
@@ -125,7 +125,7 @@
                     {
                       "resetFormOnClick": false,
                       "boxShadow": "none",
-                      "widgetName": "Button3",
+                      "widgetName": "search_message_button",
                       "onClick": "{{get_messages.run()}}",
                       "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
                       "displayName": "Button",
@@ -178,7 +178,7 @@
                     {
                       "resetFormOnClick": true,
                       "boxShadow": "none",
-                      "widgetName": "Button4",
+                      "widgetName": "search_reset_button",
                       "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
                       "displayName": "Button",
                       "iconSVG": "/static/media/icon.cca026338f1c8eb6df8ba03d084c2fca.svg",
@@ -280,7 +280,7 @@
                       "maxDynamicHeight": 9000,
                       "originalBottomRow": 17,
                       "iconAlign": "left",
-                      "defaultText": "1",
+                      "defaultText": "4",
                       "minDynamicHeight": 4
                     },
                     {
@@ -339,7 +339,7 @@
                       "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
                       "maxDynamicHeight": 9000,
                       "iconAlign": "left",
-                      "defaultText": "krina_patel",
+                      "defaultText": "gwilleman21",
                       "minDynamicHeight": 4
                     },
                     {
@@ -418,7 +418,7 @@
                       "defaultSelectedRowIndices": [
                         0
                       ],
-                      "widgetName": "Table1",
+                      "widgetName": "search_table",
                       "defaultPageSize": 0,
                       "columnOrder": [
                         "content",
@@ -462,7 +462,7 @@
                           "label": "content",
                           "isSaveVisible": true,
                           "isDiscardVisible": true,
-                          "computedValue": "{{Table1.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"content\"]))}}",
+                          "computedValue": "{{search_table.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"content\"]))}}",
                           "sticky": "",
                           "validation": {}
                         },
@@ -488,7 +488,7 @@
                           "label": "post_id",
                           "isSaveVisible": true,
                           "isDiscardVisible": true,
-                          "computedValue": "{{Table1.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"post_id\"]))}}",
+                          "computedValue": "{{search_table.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"post_id\"]))}}",
                           "sticky": "",
                           "validation": {}
                         },
@@ -514,7 +514,7 @@
                           "label": "sbless_user",
                           "isSaveVisible": true,
                           "isDiscardVisible": true,
-                          "computedValue": "{{Table1.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"sbless_user\"]))}}",
+                          "computedValue": "{{search_table.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"sbless_user\"]))}}",
                           "sticky": "",
                           "validation": {}
                         },
@@ -540,7 +540,7 @@
                           "label": "sblett_user",
                           "isSaveVisible": true,
                           "isDiscardVisible": true,
-                          "computedValue": "{{Table1.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"sblett_user\"]))}}",
+                          "computedValue": "{{search_table.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"sblett_user\"]))}}",
                           "sticky": "",
                           "validation": {}
                         }
@@ -700,7 +700,7 @@
                     {
                       "resetFormOnClick": false,
                       "boxShadow": "none",
-                      "widgetName": "Button1",
+                      "widgetName": "send_message_button",
                       "onClick": "{{create_message.run(() => showAlert('Sent!','success'), () => showAlert('Please try again!','error'))}}",
                       "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
                       "displayName": "Button",
@@ -753,7 +753,7 @@
                     {
                       "resetFormOnClick": true,
                       "boxShadow": "none",
-                      "widgetName": "Button2",
+                      "widgetName": "message_reset_button",
                       "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
                       "displayName": "Button",
                       "iconSVG": "/static/media/icon.cca026338f1c8eb6df8ba03d084c2fca.svg",
@@ -2513,7 +2513,7 @@
                       "maxDynamicHeight": 9000,
                       "originalBottomRow": 14,
                       "iconAlign": "left",
-                      "defaultText": "1500",
+                      "defaultText": "1500.00",
                       "minDynamicHeight": 4
                     }
                   ],

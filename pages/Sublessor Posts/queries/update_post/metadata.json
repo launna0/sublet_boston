@@ -7,8 +7,7 @@
       "name": "DEFAULT_REST_DATASOURCE",
       "pluginId": "restapi-plugin",
       "datasourceConfiguration": {
-        "sshProxyEnabled": false,
-        "url": "web:4000/sl/posts/post_dscrptn/2"
+        "url": "web:4000/sl/posts/post_dscrptn/{{post_id.text}}"
       },
       "invalids": [],
       "messages": [],
@@ -47,12 +46,16 @@
     "dynamicBindingPathList": [
       {
         "key": "body"
+      },
+      {
+        "key": "datasourceUrl"
       }
     ],
     "isValid": true,
     "invalids": [],
     "messages": [],
     "jsonPathKeys": [
+      "post_id.text",
       "update_posts_form.data"
     ],
     "userSetOnLoad": false,
