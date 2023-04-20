@@ -13,7 +13,7 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 3080,
+          "bottomRow": 3060,
           "containerStyle": "none",
           "snapRows": 57,
           "parentRowSpace": 1,
@@ -35,8 +35,8 @@
               "searchTags": [
                 "group"
               ],
-              "topRow": 244,
-              "bottomRow": 308,
+              "topRow": 242,
+              "bottomRow": 306,
               "parentRowSpace": 10,
               "type": "FORM_WIDGET",
               "hideCard": false,
@@ -595,10 +595,10 @@
               "renderMode": "CANVAS",
               "isLoading": false,
               "responsiveBehavior": "fill",
-              "originalTopRow": 244,
+              "originalTopRow": 242,
               "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
               "maxDynamicHeight": 9000,
-              "originalBottomRow": 308,
+              "originalBottomRow": 306,
               "minDynamicHeight": 10
             },
             {
@@ -611,8 +611,8 @@
               "searchTags": [
                 "group"
               ],
-              "topRow": 202,
-              "bottomRow": 238,
+              "topRow": 200,
+              "bottomRow": 236,
               "parentRowSpace": 10,
               "type": "FORM_WIDGET",
               "hideCard": false,
@@ -1133,10 +1133,10 @@
               "renderMode": "CANVAS",
               "isLoading": false,
               "responsiveBehavior": "fill",
-              "originalTopRow": 202,
+              "originalTopRow": 200,
               "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
               "maxDynamicHeight": 9000,
-              "originalBottomRow": 238,
+              "originalBottomRow": 236,
               "minDynamicHeight": 10
             },
             {
@@ -1149,8 +1149,8 @@
               "searchTags": [
                 "group"
               ],
-              "topRow": 137,
-              "bottomRow": 198,
+              "topRow": 135,
+              "bottomRow": 196,
               "parentRowSpace": 10,
               "type": "FORM_WIDGET",
               "hideCard": false,
@@ -1866,8 +1866,8 @@
               "searchTags": [
                 "group"
               ],
-              "topRow": 63,
-              "bottomRow": 136,
+              "topRow": 61,
+              "bottomRow": 134,
               "parentRowSpace": 10,
               "type": "FORM_WIDGET",
               "hideCard": false,
@@ -2558,7 +2558,7 @@
               "borderColor": "#E0DEDE",
               "isVisibleDownload": true,
               "iconSVG": "/static/media/icon.db8a9cbd2acd22a31ea91cc37ea2a46c.svg",
-              "topRow": 8,
+              "topRow": 6,
               "isSortable": true,
               "type": "TABLE_WIDGET_V2",
               "inlineEditingSaveOption": "ROW_LEVEL",
@@ -2663,7 +2663,7 @@
               ],
               "dynamicPropertyPathList": [],
               "displayName": "Table",
-              "bottomRow": 60,
+              "bottomRow": 58,
               "columnWidthMap": {
                 "task": 245,
                 "step": 70,
@@ -2995,7 +2995,7 @@
                 "label"
               ],
               "topRow": 1,
-              "bottomRow": 7,
+              "bottomRow": 5,
               "parentRowSpace": 10,
               "type": "TEXT_WIDGET",
               "hideCard": false,
