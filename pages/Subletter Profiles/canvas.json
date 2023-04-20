@@ -13,7 +13,7 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 1040,
+          "bottomRow": 760,
           "containerStyle": "none",
           "snapRows": 57,
           "parentRowSpace": 1,
@@ -35,8 +35,8 @@
               "searchTags": [
                 "group"
               ],
-              "topRow": 77,
-              "bottomRow": 104,
+              "topRow": 45,
+              "bottomRow": 76,
               "parentRowSpace": 10,
               "type": "FORM_WIDGET",
               "hideCard": false,
@@ -44,7 +44,7 @@
               "animateLoading": true,
               "parentColumnSpace": 14.0625,
               "dynamicTriggerPathList": [],
-              "leftColumn": 1,
+              "leftColumn": 31,
               "dynamicBindingPathList": [
                 {
                   "key": "borderRadius"
@@ -58,7 +58,7 @@
                   "widgetName": "Canvas3",
                   "displayName": "Canvas",
                   "topRow": 0,
-                  "bottomRow": 270,
+                  "bottomRow": 310,
                   "parentRowSpace": 1,
                   "type": "CANVAS_WIDGET",
                   "canExtend": false,
@@ -217,7 +217,7 @@
                       ],
                       "shouldTruncate": false,
                       "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
-                      "text": "Update your subletter username here:",
+                      "text": "Update your Subletter Username",
                       "key": "bshrhhrggc",
                       "isDeprecated": false,
                       "rightColumn": 43,
@@ -252,8 +252,8 @@
                         "click",
                         "submit"
                       ],
-                      "topRow": 21,
-                      "bottomRow": 25,
+                      "topRow": 23,
+                      "bottomRow": 27,
                       "type": "BUTTON_WIDGET",
                       "hideCard": false,
                       "animateLoading": true,
@@ -262,7 +262,7 @@
                           "key": "onClick"
                         }
                       ],
-                      "leftColumn": 46,
+                      "leftColumn": 43,
                       "dynamicBindingPathList": [
                         {
                           "key": "buttonColor"
@@ -275,7 +275,7 @@
                       "isDisabled": false,
                       "key": "uyuin90fnj",
                       "isDeprecated": false,
-                      "rightColumn": 62,
+                      "rightColumn": 59,
                       "isDefaultClickDisabled": true,
                       "widgetId": "prqebc5ogp",
                       "minWidth": 120,
@@ -302,12 +302,12 @@
                         "click",
                         "submit"
                       ],
-                      "topRow": 21,
-                      "bottomRow": 25,
+                      "topRow": 23,
+                      "bottomRow": 27,
                       "type": "BUTTON_WIDGET",
                       "hideCard": false,
                       "animateLoading": true,
-                      "leftColumn": 30,
+                      "leftColumn": 26,
                       "dynamicBindingPathList": [
                         {
                           "key": "buttonColor"
@@ -320,7 +320,7 @@
                       "isDisabled": false,
                       "key": "uyuin90fnj",
                       "isDeprecated": false,
-                      "rightColumn": 46,
+                      "rightColumn": 42,
                       "isDefaultClickDisabled": true,
                       "widgetId": "u0uubnv5g2",
                       "minWidth": 120,
@@ -360,7 +360,7 @@
               "key": "yfop19a74e",
               "backgroundColor": "#FFFFFF",
               "isDeprecated": false,
-              "rightColumn": 61,
+              "rightColumn": 59,
               "dynamicHeight": "FIXED",
               "widgetId": "ej0hdgft8q",
               "minWidth": 450,
@@ -369,10 +369,10 @@
               "renderMode": "CANVAS",
               "isLoading": false,
               "responsiveBehavior": "fill",
-              "originalTopRow": 77,
+              "originalTopRow": 45,
               "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
               "maxDynamicHeight": 9000,
-              "originalBottomRow": 104,
+              "originalBottomRow": 76,
               "minDynamicHeight": 10
             },
             {
@@ -385,8 +385,8 @@
               "searchTags": [
                 "group"
               ],
-              "topRow": 50,
-              "bottomRow": 76,
+              "topRow": 45,
+              "bottomRow": 71,
               "parentRowSpace": 10,
               "type": "FORM_WIDGET",
               "hideCard": false,
@@ -449,10 +449,10 @@
                       ],
                       "shouldTruncate": false,
                       "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
-                      "text": "Delete your subletter profile here:",
+                      "text": "Delete your Subletter Profile",
                       "key": "bshrhhrggc",
                       "isDeprecated": false,
-                      "rightColumn": 35,
+                      "rightColumn": 50,
                       "textAlign": "LEFT",
                       "dynamicHeight": "FIXED",
                       "widgetId": "c4xxo25a9s",
@@ -482,8 +482,8 @@
                         "click",
                         "submit"
                       ],
-                      "topRow": 17,
-                      "bottomRow": 21,
+                      "topRow": 16,
+                      "bottomRow": 20,
                       "type": "BUTTON_WIDGET",
                       "hideCard": false,
                       "animateLoading": true,
@@ -492,7 +492,7 @@
                           "key": "onClick"
                         }
                       ],
-                      "leftColumn": 46,
+                      "leftColumn": 44,
                       "dynamicBindingPathList": [
                         {
                           "key": "buttonColor"
@@ -505,7 +505,7 @@
                       "isDisabled": false,
                       "key": "uyuin90fnj",
                       "isDeprecated": false,
-                      "rightColumn": 62,
+                      "rightColumn": 60,
                       "isDefaultClickDisabled": true,
                       "widgetId": "93qh37r8rs",
                       "minWidth": 120,
@@ -532,12 +532,12 @@
                         "click",
                         "submit"
                       ],
-                      "topRow": 17,
-                      "bottomRow": 21,
+                      "topRow": 16,
+                      "bottomRow": 20,
                       "type": "BUTTON_WIDGET",
                       "hideCard": false,
                       "animateLoading": true,
-                      "leftColumn": 29,
+                      "leftColumn": 26,
                       "dynamicBindingPathList": [
                         {
                           "key": "buttonColor"
@@ -550,7 +550,7 @@
                       "isDisabled": false,
                       "key": "uyuin90fnj",
                       "isDeprecated": false,
-                      "rightColumn": 45,
+                      "rightColumn": 42,
                       "isDefaultClickDisabled": true,
                       "widgetId": "zqsds4hzzs",
                       "minWidth": 120,
@@ -649,7 +649,7 @@
               "key": "yfop19a74e",
               "backgroundColor": "#FFFFFF",
               "isDeprecated": false,
-              "rightColumn": 61,
+              "rightColumn": 29,
               "dynamicHeight": "FIXED",
               "widgetId": "9gtbdch83w",
               "minWidth": 450,
@@ -658,10 +658,10 @@
               "renderMode": "CANVAS",
               "isLoading": false,
               "responsiveBehavior": "fill",
-              "originalTopRow": 50,
+              "originalTopRow": 45,
               "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
               "maxDynamicHeight": 9000,
-              "originalBottomRow": 76,
+              "originalBottomRow": 71,
               "minDynamicHeight": 10
             },
             {
@@ -675,7 +675,7 @@
                 "group"
               ],
               "topRow": 2,
-              "bottomRow": 49,
+              "bottomRow": 41,
               "parentRowSpace": 10,
               "type": "FORM_WIDGET",
               "hideCard": false,
@@ -696,7 +696,7 @@
                   "widgetName": "Canvas2",
                   "displayName": "Canvas",
                   "topRow": 0,
-                  "bottomRow": 470,
+                  "bottomRow": 390,
                   "parentRowSpace": 1,
                   "type": "CANVAS_WIDGET",
                   "canExtend": false,
@@ -752,7 +752,7 @@
                       "showStepArrows": false,
                       "minWidth": 450,
                       "isVisible": true,
-                      "label": "Please create your subletter id below (for security purposes, do not share this id number with anyone else):\n",
+                      "label": "Create your Subletter ID (for security purposes, do not share this ID with anyone):\n",
                       "version": 2,
                       "parentId": "9lstzqnqof",
                       "labelAlignment": "left",
@@ -804,14 +804,14 @@
                       "labelTextSize": "0.875rem",
                       "isRequired": false,
                       "isDeprecated": false,
-                      "rightColumn": 59,
+                      "rightColumn": 30,
                       "dynamicHeight": "FIXED",
                       "widgetId": "kq5pczxi61",
                       "accentColor": "{{appsmith.theme.colors.primaryColor}}",
                       "showStepArrows": false,
                       "minWidth": 450,
                       "isVisible": true,
-                      "label": "Please enter your age below:\n",
+                      "label": "Enter your age:\n",
                       "version": 2,
                       "parentId": "9lstzqnqof",
                       "labelAlignment": "left",
@@ -870,7 +870,7 @@
                       "showStepArrows": false,
                       "minWidth": 450,
                       "isVisible": true,
-                      "label": "Please create your username below:\n",
+                      "label": "Create your username:\n",
                       "version": 2,
                       "parentId": "9lstzqnqof",
                       "labelAlignment": "left",
@@ -914,7 +914,7 @@
                       ],
                       "shouldTruncate": false,
                       "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
-                      "text": "Create your subletter profile here:\n",
+                      "text": "Create your Subletter Profile\n",
                       "key": "bshrhhrggc",
                       "isDeprecated": false,
                       "rightColumn": 37,
@@ -949,8 +949,8 @@
                         "click",
                         "submit"
                       ],
-                      "topRow": 41,
-                      "bottomRow": 45,
+                      "topRow": 33,
+                      "bottomRow": 37,
                       "type": "BUTTON_WIDGET",
                       "hideCard": false,
                       "animateLoading": true,
@@ -959,7 +959,7 @@
                           "key": "onClick"
                         }
                       ],
-                      "leftColumn": 46,
+                      "leftColumn": 43,
                       "dynamicBindingPathList": [
                         {
                           "key": "buttonColor"
@@ -972,7 +972,7 @@
                       "isDisabled": false,
                       "key": "uyuin90fnj",
                       "isDeprecated": false,
-                      "rightColumn": 62,
+                      "rightColumn": 59,
                       "isDefaultClickDisabled": true,
                       "widgetId": "h7g41vmq9p",
                       "minWidth": 120,
@@ -999,12 +999,12 @@
                         "click",
                         "submit"
                       ],
-                      "topRow": 41,
-                      "bottomRow": 45,
+                      "topRow": 33,
+                      "bottomRow": 37,
                       "type": "BUTTON_WIDGET",
                       "hideCard": false,
                       "animateLoading": true,
-                      "leftColumn": 30,
+                      "leftColumn": 25,
                       "dynamicBindingPathList": [
                         {
                           "key": "buttonColor"
@@ -1017,7 +1017,7 @@
                       "isDisabled": false,
                       "key": "uyuin90fnj",
                       "isDeprecated": false,
-                      "rightColumn": 46,
+                      "rightColumn": 41,
                       "isDefaultClickDisabled": true,
                       "widgetId": "jx7lg0gyw0",
                       "minWidth": 120,
@@ -1041,12 +1041,12 @@
                       "isFilterable": true,
                       "displayName": "Select",
                       "iconSVG": "/static/media/icon.bd99caba5853ad71e4b3d8daffacb3a2.svg",
-                      "labelText": "Label",
+                      "labelText": "Select your gender:",
                       "searchTags": [
                         "dropdown"
                       ],
-                      "topRow": 32,
-                      "bottomRow": 39,
+                      "topRow": 23,
+                      "bottomRow": 30,
                       "parentRowSpace": 10,
                       "labelWidth": 5,
                       "type": "SELECT_WIDGET",
@@ -1056,7 +1056,7 @@
                       "animateLoading": true,
                       "parentColumnSpace": 12.87109375,
                       "dynamicTriggerPathList": [],
-                      "leftColumn": 2,
+                      "leftColumn": 32,
                       "dynamicBindingPathList": [
                         {
                           "key": "accentColor"
@@ -1073,7 +1073,7 @@
                       "labelTextSize": "0.875rem",
                       "isRequired": false,
                       "isDeprecated": false,
-                      "rightColumn": 22,
+                      "rightColumn": 59,
                       "dynamicHeight": "FIXED",
                       "widgetId": "7s58oyo96y",
                       "accentColor": "{{appsmith.theme.colors.primaryColor}}",
@@ -1111,7 +1111,7 @@
               "key": "yfop19a74e",
               "backgroundColor": "#FFFFFF",
               "isDeprecated": false,
-              "rightColumn": 61,
+              "rightColumn": 35,
               "dynamicHeight": "AUTO_HEIGHT",
               "widgetId": "px3slyo14e",
               "minWidth": 450,
@@ -1123,7 +1123,7 @@
               "originalTopRow": 2,
               "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
               "maxDynamicHeight": 9000,
-              "originalBottomRow": 49,
+              "originalBottomRow": 41,
               "minDynamicHeight": 10
             }
           ]
